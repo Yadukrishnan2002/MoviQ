@@ -1,5 +1,10 @@
 # MovieQ
 
+### Contributers 
+[Aditya Mishra](https://github.com/aditya01hpl)
+[Yadu Krishnan](https://github.com/Yadukrishnan2002)
+
+
 ### Motivation
 ---
 Movie review systems are a crucial tool for aiding 
